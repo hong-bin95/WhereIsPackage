@@ -1,0 +1,44 @@
+[
+  {
+    "code": "1",
+    "name": "GS 편의점 택배",
+    "name_eng": "GS POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "2",
+    "name": "CU 편의점 택배",
+    "name_eng": "CU POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "3",
+    "name": "CJ 대한통운",
+    "name_eng": "CJ POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "4",
+    "name": "우체국",
+    "name_eng": "POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "5",
+    "name": "한진택배",
+    "name_eng": "Hanjin POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "6",
+    "name": "롯데택배",
+    "name_eng": "Lotte POST",
+    "delete_yn": "n"
+  },
+  {
+    "code": "7",
+    "name": "로젠택배",
+    "name_eng": "rozen POST",
+    "delete_yn": "n"
+  }
+]
