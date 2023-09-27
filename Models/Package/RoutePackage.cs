@@ -2,21 +2,22 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using static WhereIsPackage.Common.CommonEnum;
 
 namespace WhereIsPackage.Models.Package
 {
     /// <summary>
     /// 조회
     /// </summary>
-    public class RequestPackage
+    public class RoutePackage
     {
         /// <summary>
-        /// 호출 url
+        /// 택배 타입
         /// </summary>
-        string url { get; set; }
+        public CommonPostType postType { get; set; }
         /// <summary>
         /// 운송장번호
         /// </summary>
-        string no { get; set; }
+        public string no { get; set; }
     }
 }

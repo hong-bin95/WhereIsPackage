@@ -3,42 +3,49 @@
     "code": "1",
     "name": "GS 편의점 택배",
     "name_eng": "GS POST",
+    "enum_code": "GSPOST",
     "delete_yn": "n"
   },
   {
     "code": "2",
     "name": "CU 편의점 택배",
     "name_eng": "CU POST",
+    "enum_code": "CUPOST",
     "delete_yn": "n"
   },
   {
     "code": "3",
     "name": "CJ 대한통운",
     "name_eng": "CJ POST",
+    "enum_code": "CJPOST",
     "delete_yn": "n"
   },
   {
     "code": "4",
     "name": "우체국",
     "name_eng": "POST",
+    "enum_code": "POST",
     "delete_yn": "n"
   },
   {
     "code": "5",
     "name": "한진택배",
     "name_eng": "Hanjin POST",
+    "enum_code": "HGPOST",
     "delete_yn": "n"
   },
   {
     "code": "6",
     "name": "롯데택배",
     "name_eng": "Lotte POST",
+    "enum_code": "LTPOST",
     "delete_yn": "n"
   },
   {
     "code": "7",
     "name": "로젠택배",
     "name_eng": "rozen POST",
+    "enum_code": "RZPOST",
     "delete_yn": "n"
   }
 ]
